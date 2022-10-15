@@ -15,6 +15,6 @@ async function handleRequest(request) {
 const html = `<!DOCTYPE html>
 <body>
   <h1>Hello World</h1>
-  <p>This is Takaaki Suzuki Serverless HTML Page</p>
+  <p>This is Takaaki Suzuki Serverless HTML Page test</p>
 </body>`;
 
