@@ -16,3 +16,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           command: pages publish --project-name=takaaki-webpage
+          workingDirectory: 'webpage'
